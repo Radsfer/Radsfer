@@ -1,4 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=6B1F51)
+🇺🇸 [English](./README.md)
+🇧🇷 [Português](./README.pt.md)
+
 # Olá visitante ! 🖖 
 ## 🤓 Me chamo _Rafael Adolfo_ ,
 
