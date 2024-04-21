@@ -2,8 +2,7 @@
 # Bem vindo visitante 🖖 
 
 ## Sobre
-<font size=120> <b>Me chamo <u>Rafael Adolfo</u>,</b></font>
-
+<font size="120"> <b>Me chamo <u>Rafael Adolfo</u>,</b></font>
 e atualmente busco de me transicionar para área de programação, no momento estudando desenvolvimento web, vendo a possibilidade de fazer alguns projetos que envolvam desenvolvimento softwares de engenharia com soluções de IA. E como hobby trabalho em projetos de jogos em C++/C#.
 ## Formação
 ⚗️Engenheiro Químico
