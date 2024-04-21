@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=6B1F51)
 |🇺🇸 [English](./README-en.md)|🇧🇷 [Português](./README.md)|
-|-------------------------------------------------------|
+|----------------------------|--------------------------|
 
 # Hello visitor! 🖖
 
