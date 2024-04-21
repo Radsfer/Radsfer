@@ -1,14 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=6B1F51)
 # Bem vindo visitante 🖖 
 
-<font size=42> <b>me chamo Rafael Adolfo</b></font>
+## Sobre
+<font size=62> <b>me chamo Rafael Adolfo</b></font>
+Em busca de me transicionar para área de programação, no momento estudando desenvolvimento web, vendo a possibilidade de fazer alguns projetos que envolvam desenvolvimento softwares de engenharia com soluções de IA. E como hobby trabalho em projetos de jogos em C++/C#.
 ## Formação
 ⚗️Engenheiro Químico
 
 📝Cursando: Engenharia da Computação - CEFET-MG
 
-## Sobre
-Em busca de me transicionar para área de programação, no momento estudando desenvolvimento web, vendo a possibilidade de fazer alguns projetos que envolvam desenvolvimento softwares de engenharia com soluções de IA. E como hobby trabalho em projetos de jogos em C++/C#.
+
 
 ## GitHub Stats
 
