@@ -8,6 +8,7 @@
 ## 🤓 Me chamo _Rafael Adolfo_ ,
 
 atualmente busco transicionar para área de programação, no momento estudando desenvolvimento web, vendo a possibilidade de fazer alguns projetos que envolvam desenvolvimento  de softwares para engenharia com soluções de IA. 
+
 E como hobby, estou estudando desenvolvimento de jogos em C++/C#.
 ## 📚 Formação
 - ⚗️Engenhaira Química (2021), UNIFOR-MG 
