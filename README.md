@@ -7,7 +7,7 @@ atualmente busco transicionar para área de programação, no momento estudando 
 - ⚗️Engenhaira Química (2022) UNIFOR-MG 
 - 📝Cursando: Engenharia da Computação - CEFET-MG
 
-## ⚙️ Habilidades Em Desenvolvimento
+## ⚙️ Habilidades em desenvolvimento
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
