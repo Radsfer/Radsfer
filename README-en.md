@@ -6,7 +6,9 @@
 # Hello visitor! 🖖
 
 ## 🤓 My name is Rafael Adolfo,
-I'm currently transitioning into the programming field, studying web development with a focus on exploring projects involving engineering software development with AI solutions. As a hobby, I work on game projects using C++/C#.
+I'm currently transitioning into the programming field, studying web development, exploring the possibility to participate in projects involving engineering software development with AI solutions.
+
+And as a hobby, I'm studying game development using C++/C#.
 
 ## 📚 Education
 
