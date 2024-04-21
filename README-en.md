@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=6B1F51)
-🇺🇸 [English](./README-en.md) | 🇧🇷 [Português](./README.md)
+|🇺🇸 [English](./README-en.md)|🇧🇷 [Português](./README.md)|
+|-------------------------------------------------------|
 
 # Hello visitor! 🖖
 
@@ -8,8 +9,8 @@ I'm currently transitioning into the programming field, studying web development
 
 ## 📚 Education
 
-⚗️ Bachelor's in Chemical Engineering (2021), UNIFOR-MG
-📝 Currently pursuing Computer Engineering, CEFET-MG
+- ⚗️ Bachelor's in Chemical Engineering (2021), UNIFOR-MG
+- 📝 Currently pursuing Computer Engineering, CEFET-MG
 
 ## ⚙️ Skills in development
 
