@@ -21,6 +21,6 @@ e atualmente busco de me transicionar para área de programação, no momento es
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=jolly)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Radsfer&layout=compact&theme=jolly)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Radsfer&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=jolly)
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=140&color=6B1F51&section=footer)
