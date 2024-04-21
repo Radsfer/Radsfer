@@ -7,10 +7,12 @@
 I'm currently transitioning into the programming field, studying web development with a focus on exploring projects involving engineering software development with AI solutions. As a hobby, I work on game projects using C++/C#.
 
 📚 Education
+
 ⚗️ Bachelor's in Chemical Engineering (2021), UNIFOR-MG
 📝 Currently pursuing Computer Engineering, CEFET-MG
 
 ⚙️ Skills in development
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
