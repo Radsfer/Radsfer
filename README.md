@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=6B1F51)
 # Bem vindo visitante 🖖 
 
-## Sobre
-<font size="120"> <b>Me chamo <u>Rafael Adolfo</u>,</b></font>
+## Me chamo <u>Rafael Adolfo</u>,
+
 e atualmente busco de me transicionar para área de programação, no momento estudando desenvolvimento web, vendo a possibilidade de fazer alguns projetos que envolvam desenvolvimento softwares de engenharia com soluções de IA. E como hobby trabalho em projetos de jogos em C++/C#.
 ## Formação
 ⚗️Engenhaira Química (2022) UNIFOR-MG
