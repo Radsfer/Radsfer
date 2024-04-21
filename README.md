@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=6B1F51)
 # Bem vindo visitante 🖖 
 
-## Me chamo <u>Rafael Adolfo</u>,
+## Me chamo _Rafael Adolfo_ ,
 
 e atualmente busco de me transicionar para área de programação, no momento estudando desenvolvimento web, vendo a possibilidade de fazer alguns projetos que envolvam desenvolvimento softwares de engenharia com soluções de IA. E como hobby trabalho em projetos de jogos em C++/C#.
 ## Formação
@@ -21,7 +21,11 @@ e atualmente busco de me transicionar para área de programação, no momento es
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img align="center">![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Radsfer&show_icons=true,prs&cache_seconds=86400&theme=jolly)</img>
-<img align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Radsfer&layout=compact&theme=jolly)</img>
-
+<div>
+<a href="https://github.com/Radsfer">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Radsfer&show_icons=true,prs&cache_seconds=86400&theme=jolly"></img>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radsfer&layout=compact&theme=jolly"></img>
+</a>
+</div>
+  
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=140&color=6B1F51&section=footer)
