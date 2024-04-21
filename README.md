@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=6B1F51)
 
-|🇺🇸 [English](./README-en.md)|🇧🇷 [Português](./README.md)|
+| 🇺🇸 [English](./README-en.md)| 🇧🇷 [Português](./README.md)|
 |----------------------------|--------------------------|
 
 
@@ -24,7 +24,7 @@ atualmente busco transicionar para área de programação, no momento estudando 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<div>
+ <div>
 <a href="https://github.com/Radsfer">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Radsfer&show_icons=true,prs&cache_seconds=86400&theme=jolly"></img>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radsfer&layout=compact&theme=jolly"></img>
