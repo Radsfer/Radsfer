@@ -14,6 +14,7 @@ e atualmente busco de me transicionar para área de programação, no momento es
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Radsfer&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=jolly)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Radsfer&size_weight=0.5&count_weight=0.5&theme=jolly)
 ## Habilidades Em Desenvolvimento
 
