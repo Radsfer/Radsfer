@@ -4,12 +4,12 @@
 ## Me chamo _Rafael Adolfo_ ,
 
 e atualmente busco de me transicionar para área de programação, no momento estudando desenvolvimento web, vendo a possibilidade de fazer alguns projetos que envolvam desenvolvimento softwares de engenharia com soluções de IA. E como hobby trabalho em projetos de jogos em C++/C#.
-## Formação
+## 📚 Formação
 ⚗️Engenhaira Química (2022) UNIFOR-MG
 
 📝Cursando: Engenharia da Computação - CEFET-MG
 
-## Habilidades Em Desenvolvimento
+## ⚙️ Habilidades Em Desenvolvimento
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
