@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=6B1F51)
 # Bem vindo visitante 🖖 
-## ☺️ Me chamo _Rafael Adolfo_ ,
+## 🤓 Me chamo _Rafael Adolfo_ ,
 
 e atualmente busco transicionar para área de programação, no momento estudando desenvolvimento web, vendo a possibilidade de fazer alguns projetos que envolvam desenvolvimento softwares de engenharia com soluções de IA. E como hobby trabalho em projetos de jogos em C++/C#.
 ## 📚 Formação
