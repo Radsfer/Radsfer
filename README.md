@@ -11,7 +11,7 @@ atualmente busco transicionar para área de programação, no momento estudando 
 
 E como hobby, estou estudando desenvolvimento de jogos em C++/C#.
 ## 📚 Formação
-- ⚗️Engenhaira Química (2021), UNIFOR-MG 
+- ⚗️Engenharia Química (2021), UNIFOR-MG 
 - 📝Cursando: Engenharia da Computação, CEFET-MG
 
 ## ⚙️ Habilidades em desenvolvimento
