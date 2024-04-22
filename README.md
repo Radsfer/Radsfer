@@ -5,7 +5,7 @@
 
 
 # Olá visitante ! 🖖 
-<h2>🤓 Me chamo _Rafael Adolfo ,</h2>
+<h2>🤓 Me chamo Rafael Adolfo ,</h2>
 
 atualmente busco transicionar para área de programação, no momento estudando desenvolvimento web, vendo a possibilidade de fazer alguns projetos que envolvam desenvolvimento  de softwares para engenharia com soluções de IA. 
 
