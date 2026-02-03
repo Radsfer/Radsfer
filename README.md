@@ -1,4 +1,4 @@
-| 🇺🇸 [English](https://www.google.com/search?q=./README-en.md) | 🇧🇷 [Português](https://www.google.com/search?q=./README.md) |
+| 🇺🇸 [English](README-en.md) | 🇧🇷 [Português](README.md) |
 | --- | --- |
 
 
