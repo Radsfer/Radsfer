@@ -1,37 +1,47 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=6B1F51)
+| 🇺🇸 [English](README-en.md) | 🇧🇷 [Português](README.md) |
+| --- | --- |
 
-|🇺🇸 [English](./README-en.md)|🇧🇷 [Português](./README.md)|
-|----------------------------|--------------------------|
 
 # Hello visitor! 🖖
 
-## 🤓 My name is Rafael Adolfo,
-I'm currently transitioning into the programming field, studying web development, exploring the possibility to participate in projects involving engineering software development with AI solutions.
+## I'm Rafael Adolfo,
 
-And as a hobby, I'm studying game development using C++/C#.
+I am a **Computer Engineering** student focused on transforming raw data into strategic insights and intelligent solutions. Currently, I work with modern data architectures (**Lakehouse**) and the integration of **Generative AI** to optimize business processes and CX (Customer Experience) analysis.
+
+---
+
+## 🚀 Featured Project
+
+### [Olist Lakehouse: Data Engineering & GenAI](https://www.google.com/search?q=https://github.com/Radsfer/olist-lakehouse-project)
+
+Implementation of an end-to-end solution in **Databricks** using the **Medallion** architecture (Bronze, Silver, Gold).
+
+* **ETL Pipeline**: Data ingestion and processing of e-commerce datasets using **PySpark** and **Delta Lake**.
+* **AI & Automation**: Leveraging **Google Gemini API** for qualitative review analysis and automated risk alerts via **Discord Webhooks**.
+* **BI**: Interactive dashboard focused on logistics KPIs and customer sentiment analysis.
+
+---
+
+## ⚙️ Tech Stack
+
+### Data & AI
+
+### Languages & Tools
+
+---
 
 ## 📚 Education
 
-- ⚗️ Bachelor's in Chemical Engineering (2021), UNIFOR-MG
-- 📝 Currently pursuing Computer Engineering, CEFET-MG
+* ⚗️ **Chemical Engineering** (2021), UNIFOR-MG
+* 📝 **Computer Engineering**, CEFET-MG (Expected Graduation: 12/2027)
 
-## ⚙️ Skills in development
+---
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## 📊 Stats
 
 <div>
-<a href="https://github.com/Radsfer">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Radsfer&show_icons=true,prs&cache_seconds=86400&theme=jolly"></img>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radsfer&layout=compact&theme=jolly"></img>
+<a href="[https://github.com/Radsfer](https://github.com/Radsfer)">
+<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=Radsfer&show_icons=true,prs&cache_seconds=86400&theme=jolly](https://github-readme-stats.vercel.app/api?username=Radsfer&show_icons=true,prs&cache_seconds=86400&theme=jolly)"></img>
+<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Radsfer&layout=compact&theme=jolly](https://github-readme-stats.vercel.app/api/top-langs/?username=Radsfer&layout=compact&theme=jolly)"></img>
 </a>
 </div>
-  
-![footer](https://capsule-render.vercel.app/api?type=waving&height=140&color=6B1F51&section=footer)
