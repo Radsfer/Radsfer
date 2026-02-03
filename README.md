@@ -1,34 +1,49 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=6B1F51)
-
-| 🇺🇸 [English](./README-en.md)| 🇧🇷 [Português](./README.md)|
-|----------------------------|--------------------------|
+| 🇺🇸 [English](https://www.google.com/search?q=./README-en.md) | 🇧🇷 [Português](https://www.google.com/search?q=./README.md) |
+| --- | --- |
 
 
-# Olá visitante ! 🖖 
-<h2>🤓 Me chamo Rafael Adolfo ,</h2>
+# Olá visitante! 🖖
 
-atualmente busco transicionar para área de programação, no momento estudando desenvolvimento web, vendo a possibilidade de fazer alguns projetos que envolvam desenvolvimento  de softwares para engenharia com soluções de IA. 
+## Me chamo Rafael Adolfo,
+
+Sou estudante de **Engenharia da Computação** focado em transformar dados brutos em insights estratégicos e soluções inteligentes. Atualmente, trabalho com arquiteturas modernas de dados (**Lakehouse**) e integração de **IA Generativa** para otimização de negócios e análise de CX (Customer Experience).
+
+---
+
+## 🚀 Projeto em Destaque
+
+### [Olist Lakehouse: Data Engineering & GenAI](https://www.google.com/search?q=https://github.com/Radsfer/olist-lakehouse-project)
+
+Implementação de uma solução completa no **Databricks** utilizando a arquitetura **Medallion**.
+
+* **Pipeline ETL**: Ingestão e tratamento de dados de e-commerce utilizando **PySpark** e **Delta Lake**.
+* **IA & Automação**: Uso da API do **Google Gemini** para análise qualitativa de reviews e disparos automáticos de alertas via **Discord Webhooks**.
+* **BI**: Dashboard interativo focado em KPIs logísticos e sentimentos dos clientes.
+
+---
+
+## ⚙️ Tech Stack
+
+### Dados & IA
+
+### Linguagens & Ferramentas
+
+---
 
 ## 📚 Formação
-- ⚗️Engenharia Química (2021), UNIFOR-MG 
-- 📝Cursando: Engenharia da Computação, CEFET-MG
 
-## ⚙️ Habilidades em desenvolvimento
+* ⚗️ **Engenharia Química** (2021), UNIFOR-MG
+* 📝 **Engenharia da Computação**, CEFET-MG (Previsão: 12/2027) 
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
- <div>
+
+---
+
+## 📊 Estatísticas
+
+<div>
 <a href="https://github.com/Radsfer">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Radsfer&show_icons=true,prs&cache_seconds=86400&theme=jolly"></img>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radsfer&layout=compact&theme=jolly"></img>
 </a>
 </div>
-  
-![footer](https://capsule-render.vercel.app/api?type=waving&height=140&color=6B1F51&section=footer)
