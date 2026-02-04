@@ -37,13 +37,3 @@ Implementação de uma solução completa no **Databricks** utilizando a arquite
 
 
 
----
-
-## 📊 Estatísticas
-
-<div>
-<a href="https://github.com/Radsfer">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Radsfer&show_icons=true,prs&cache_seconds=86400&theme=jolly"></img>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radsfer&layout=compact&theme=jolly"></img>
-</a>
-</div>
