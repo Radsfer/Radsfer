@@ -35,13 +35,7 @@ Implementation of an end-to-end solution in **Databricks** using the **Medallion
 * ⚗️ **Chemical Engineering** (2021), UNIFOR-MG
 * 📝 **Computer Engineering**, CEFET-MG (Expected Graduation: 12/2027)
 
----
 
-## 📊 Stats
-
-<div>
-<a href="[https://github.com/Radsfer](https://github.com/Radsfer)">
-<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=Radsfer&show_icons=true,prs&cache_seconds=86400&theme=jolly](https://github-readme-stats.vercel.app/api?username=Radsfer&show_icons=true,prs&cache_seconds=86400&theme=jolly)"></img>
 <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Radsfer&layout=compact&theme=jolly](https://github-readme-stats.vercel.app/api/top-langs/?username=Radsfer&layout=compact&theme=jolly)"></img>
 </a>
 </div>
