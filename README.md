@@ -12,7 +12,7 @@ Sou estudante de **Engenharia da Computação** focado em transformar dados brut
 
 ## 🚀 Projeto em Destaque
 
-### [Olist Lakehouse: Data Engineering & GenAI](https://www.google.com/search?q=https://github.com/Radsfer/olist-lakehouse-project)
+### [Olist Lakehouse: Data Engineering & GenAI](https://github.com/Radsfer/olist-lakehouse-project.git)
 
 Implementação de uma solução completa no **Databricks** utilizando a arquitetura **Medallion**.
 
