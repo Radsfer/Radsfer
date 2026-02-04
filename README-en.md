@@ -12,7 +12,7 @@ I am a **Computer Engineering** student focused on transforming raw data into st
 
 ## 🚀 Featured Project
 
-### [Olist Lakehouse: Data Engineering & GenAI](https://www.google.com/search?q=https://github.com/Radsfer/olist-lakehouse-project)
+### [Olist Lakehouse: Data Engineering & GenAI](https://github.com/Radsfer/olist-lakehouse-project.git)
 
 Implementation of an end-to-end solution in **Databricks** using the **Medallion** architecture (Bronze, Silver, Gold).
 
