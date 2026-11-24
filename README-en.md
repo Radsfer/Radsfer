@@ -12,7 +12,13 @@
   <a href="mailto:rafael@adolfo.tec.br"><img alt="email: rafael@adolfo.tec.br" src="https://img.shields.io/badge/email-rafael%40adolfo.tec.br-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff"></a>
 </p>
 
-I build the whole path of the data — ingestion, modeling, product and operations. I have a soft spot for things that actually run: an LLM on a GPU-less VPS, zero marginal cost per query, automation that avoids fines. Today I'm a **Data Engineering** intern at **Master Internet** and a **Computer Engineering** student at **CEFET-MG**.
+I work between data engineering and applied AI: I design the pipeline, model the layers and take the result to production — including an LLM running on a GPU-less VPS at zero marginal cost per query. I'm a **Junior Data Analyst** at **Master Internet**, where I automate critical processes and build the foundation decisions rely on, and a **Computer Engineering** student at **CEFET-MG**.
+
+### ▸ How I work
+
+- **Model before tooling.** Data contracts, layers and tests come before picking the service — that's what keeps a pipeline trustworthy when the schema changes.
+- **AI only ships if it fits the budget.** I'd rather run a local SLM that answers in seconds than a per-token API that also exposes sensitive documents.
+- **Operating is part of building.** Docker, nginx and CI/CD ship with the code; if it doesn't run in production, it isn't finished.
 
 ### ▸ Numbers
 
@@ -24,10 +30,10 @@ I build the whole path of the data — ingestion, modeling, product and operatio
 
 | Project | What it solves | Stack |
 |:---|:---|:---|
-| **[NormaExtractor](https://github.com/Radsfer/normaextractor)** <br/><sub>[demo](https://normaextractor.adolfo.tec.br)</sub> | RAG over regulatory documents with a local CPU SLM: extracts clauses and answers citing sources, without sending documents to a third-party API | `FastAPI` `React` `ChromaDB` `llama.cpp` |
-| **[Olist Lakehouse](https://github.com/Radsfer/olist-lakehouse-project)** | Medallion pipeline in Databricks + Gemini to classify customer reviews and fire Discord alerts | `PySpark` `Delta Lake` `Databricks` |
-| **[ProdTrack](https://github.com/Radsfer/projeto_prs_tecnologia)** | Shop-floor production tracking with machine telemetry, ready for Power BI/Fabric | `TypeScript` `IoT` `LGPD` |
-| **[Logistics network optimizer](https://github.com/Radsfer/otimizador-de-malha-logistica)** | Facility location MILP with integrated inventory, solved with OR-Tools/CBC | `OR-Tools` `Pydantic` `Streamlit` |
+| **[NormaExtractor](https://github.com/Radsfer/normaextractor)** <br/><sub>[demo](https://normaextractor.adolfo.tec.br)</sub> | RAG pipeline over regulatory documents with a local CPU SLM: structured clause extraction, embeddings and chat with source citations, no third-party API | `FastAPI` `React` `ChromaDB` `llama.cpp` |
+| **[Olist Lakehouse](https://github.com/Radsfer/olist-lakehouse-project)** | Medallion lakehouse in Databricks (PySpark + Delta Lake) with GenAI to classify reviews and fire Discord alerts | `PySpark` `Delta Lake` `Databricks` |
+| **[ProdTrack](https://github.com/Radsfer/projeto_prs_tecnologia)** | Industrial production and telemetry ingestion, with an efficiency panel and export ready for Power BI/Fabric | `TypeScript` `IoT` `LGPD` |
+| **[Logistics network optimizer](https://github.com/Radsfer/otimizador-de-malha-logistica)** | Facility location MILP with integrated inventory, instance validation and CLI + dashboard | `OR-Tools` `Pydantic` `Streamlit` |
 
 ### ▸ Stack
 
@@ -63,8 +69,8 @@ I build the whole path of the data — ingestion, modeling, product and operatio
 
 ### ▸ Experience & education
 
-**Data Engineering Intern** · Master Internet · `Dec 2025 – present`<br/>
-Python bot for CEMIG processes (R$ 150k in fines avoided), Airbyte integrations between SQL Server and PostgreSQL, dbt supplier-cost data marts by sector and Streamlit dashboards used in per-sector decisions.
+**Junior Data Analyst** · Master Internet · `Dec 2025 – present`<br/>
+Python automation of a critical CEMIG process (R$ 150k in fines avoided), Airbyte ingestion from SQL Server to PostgreSQL, dbt modeling and transformation with supplier-cost data marts by sector, and internal Streamlit products used in per-sector decisions.
 
 **Computer Engineering** · CEFET-MG · `expected Dec 2027`<br/>
 **Chemical Engineering** · UNIFOR-MG · `2021`<br/>

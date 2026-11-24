@@ -12,7 +12,13 @@
   <a href="mailto:rafael@adolfo.tec.br"><img alt="email: rafael@adolfo.tec.br" src="https://img.shields.io/badge/email-rafael%40adolfo.tec.br-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff"></a>
 </p>
 
-Construo o caminho completo do dado — ingestão, modelagem, produto e operação. Tenho preferência por coisa que roda de verdade: LLM em VPS sem GPU, custo marginal zero por consulta e automação que evita multa. Hoje sou estagiário de **Engenharia de Dados** na **Master Internet** e curso **Engenharia da Computação** no **CEFET-MG**.
+Trabalho entre engenharia de dados e IA aplicada: desenho o pipeline, modelo as camadas e levo o resultado até produção — inclusive um LLM rodando em VPS sem GPU, com custo marginal zero por consulta. Sou **Analista de Dados Jr** na **Master Internet**, onde automatizo processos críticos e construo a base que sustenta decisão, e curso **Engenharia da Computação** no **CEFET-MG**.
+
+### ▸ Como eu trabalho
+
+- **Modelo antes da ferramenta.** Contrato do dado, camadas e teste vêm antes da escolha do serviço — é o que mantém o pipeline confiável quando o schema muda.
+- **IA só entra se couber no custo.** Prefiro um SLM local que responde em segundos a uma API que cobra por token e ainda expõe documento sensível.
+- **Operar faz parte de construir.** Docker, nginx e CI/CD saem na mesma entrega do código; se não roda em produção, ainda não terminou.
 
 ### ▸ Números
 
@@ -24,10 +30,10 @@ Construo o caminho completo do dado — ingestão, modelagem, produto e operaç�
 
 | Projeto | O que resolve | Stack |
 |:---|:---|:---|
-| **[NormaExtractor](https://github.com/Radsfer/normaextractor)** <br/><sub>[demo](https://normaextractor.adolfo.tec.br)</sub> | RAG sobre documentos normativos com SLM local em CPU: extrai cláusulas e responde citando as fontes, sem mandar o documento para API de terceiro | `FastAPI` `React` `ChromaDB` `llama.cpp` |
-| **[Olist Lakehouse](https://github.com/Radsfer/olist-lakehouse-project)** | Pipeline Medallion no Databricks + Gemini para classificar reviews de clientes e disparar alertas no Discord | `PySpark` `Delta Lake` `Databricks` |
-| **[ProdTrack](https://github.com/Radsfer/projeto_prs_tecnologia)** | Apontamento de produção no chão de fábrica, com telemetria de máquina e saída pronta para Power BI/Fabric | `TypeScript` `IoT` `LGPD` |
-| **[Otimizador de malha logística](https://github.com/Radsfer/otimizador-de-malha-logistica)** | MILP de localização de centros de distribuição com estoque integrado, resolvido em OR-Tools/CBC | `OR-Tools` `Pydantic` `Streamlit` |
+| **[NormaExtractor](https://github.com/Radsfer/normaextractor)** <br/><sub>[demo](https://normaextractor.adolfo.tec.br)</sub> | Pipeline RAG sobre documentos normativos com SLM local em CPU: extração estruturada de cláusulas, embeddings e chat com citação de fontes, sem API de terceiro | `FastAPI` `React` `ChromaDB` `llama.cpp` |
+| **[Olist Lakehouse](https://github.com/Radsfer/olist-lakehouse-project)** | Lakehouse Medallion no Databricks (PySpark + Delta Lake) com GenAI para classificar reviews e disparar alertas no Discord | `PySpark` `Delta Lake` `Databricks` |
+| **[ProdTrack](https://github.com/Radsfer/projeto_prs_tecnologia)** | Ingestão de apontamento e telemetria industrial, com painel de eficiência e export pronto para Power BI/Fabric | `TypeScript` `IoT` `LGPD` |
+| **[Otimizador de malha logística](https://github.com/Radsfer/otimizador-de-malha-logistica)** | MILP de localização de centros de distribuição com estoque integrado, validação de instância e CLI + dashboard | `OR-Tools` `Pydantic` `Streamlit` |
 
 ### ▸ Stack
 
@@ -63,8 +69,8 @@ Construo o caminho completo do dado — ingestão, modelagem, produto e operaç�
 
 ### ▸ Experiência & formação
 
-**Estagiário de Engenharia de Dados** · Master Internet · `dez/2025 – atual`<br/>
-Bot em Python para os processos da CEMIG (R$ 150 mil em multas evitadas), integrações Airbyte entre SQL Server e PostgreSQL, data marts em dbt de custo de fornecedor por setor e dashboards Streamlit usados na decisão de cada área.
+**Analista de Dados Jr** · Master Internet · `dez/2025 – atual`<br/>
+Automação do processo crítico da CEMIG em Python (R$ 150 mil em multas evitadas), ingestão com Airbyte entre SQL Server e PostgreSQL, modelagem e transformação em dbt com data marts de custo por setor, e produtos internos em Streamlit usados na decisão de cada área.
 
 **Engenharia da Computação** · CEFET-MG · `previsão 12/2027`<br/>
 **Engenharia Química** · UNIFOR-MG · `2021`<br/>
