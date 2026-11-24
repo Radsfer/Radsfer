@@ -22,9 +22,9 @@ I work between data engineering and applied AI: I design the pipeline, model the
 
 ### ▸ Numbers
 
-| **R$ 150k** | **10,632** | **3** | **0** |
-|:---:|:---:|:---:|:---:|
-| <sub>in fines avoided with the CEMIG automation bot</sub> | <sub>Protheus tables indexed for offline querying</sub> | <sub>Medallion layers in Databricks: bronze, silver, gold</sub> | <sub>GPU needed to serve NormaExtractor's local LLM</sub> |
+| **R$ 150k** | **10,632** | **0** |
+|:---:|:---:|:---:|
+| <sub>in fines avoided with the CEMIG automation bot</sub> | <sub>Protheus tables indexed for offline querying</sub> | <sub>GPU needed to serve NormaExtractor's local LLM</sub> |
 
 ### ▸ Selected work
 

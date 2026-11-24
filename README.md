@@ -22,9 +22,9 @@ Trabalho entre engenharia de dados e IA aplicada: desenho o pipeline, modelo as 
 
 ### ▸ Números
 
-| **R$ 150 mil** | **10.632** | **3** | **0** |
-|:---:|:---:|:---:|:---:|
-| <sub>em multas evitadas com o bot de automação da CEMIG</sub> | <sub>tabelas do Protheus indexadas para consulta offline</sub> | <sub>camadas Medallion no Databricks: bronze, silver e gold</sub> | <sub>GPU necessária para servir o LLM local do NormaExtractor</sub> |
+| **R$ 150 mil** | **10.632** | **0** |
+|:---:|:---:|:---:|
+| <sub>em multas evitadas com o bot de automação da CEMIG</sub> | <sub>tabelas do Protheus indexadas para consulta offline</sub> | <sub>GPU necessária para servir o LLM local do NormaExtractor</sub> |
 
 ### ▸ Trabalho selecionado
 
