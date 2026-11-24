@@ -65,7 +65,7 @@ Trabalho entre engenharia de dados e IA aplicada: desenho o pipeline, modelo as 
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-0d1117?style=flat-square&logo=githubactions&logoColor=58a6ff">
 </p>
 
-<sub>Fundamentos: C · C++ · Java · Verilog · otimização (MIP) · engenharia química</sub>
+<sub>Fundamentos: C · C++ · Java · Verilog · otimização (MIP)</sub>
 
 ### ▸ Experiência & formação
 

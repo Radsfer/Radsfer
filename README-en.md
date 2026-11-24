@@ -65,7 +65,7 @@ I work between data engineering and applied AI: I design the pipeline, model the
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-0d1117?style=flat-square&logo=githubactions&logoColor=58a6ff">
 </p>
 
-<sub>Fundamentals: C · C++ · Java · Verilog · optimization (MIP) · chemical engineering</sub>
+<sub>Fundamentals: C · C++ · Java · Verilog · optimization (MIP)</sub>
 
 ### ▸ Experience & education
 
